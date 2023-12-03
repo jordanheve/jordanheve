@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h2 align="center">👤 About Me</h2>
 <div>
   
-<img width="240px" align="right" alt="Github" src="./coding2.png" />
+<img width="20%" align="right" alt="Github" src="./coding2.png" />
 
 - 🔭 I'm a student of Software Design and Networks Engineering.
   
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a big fan of One Piece!
 
 </div>
+
 <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
   
