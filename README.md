@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a student of Software Design and Networks Engineering.
   
-- 🌱 I’m currently learning Laravel y mongoDB
+- 🌱 I’m currently learning Laravel
 
 - 👀  I'm seeking opportunities to collaborate on projects related to software design and networks.
   
